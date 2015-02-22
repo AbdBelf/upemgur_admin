@@ -1,0 +1,12 @@
+/* Put your CSS here */
+html, body {
+    margin: 30px 0;
+}
+
+#main {
+	margin: 100px 0 0 0;
+}
+
+.welcome{
+	margin: 100px 0 0 0;
+}
